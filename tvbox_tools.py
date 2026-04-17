@@ -32,7 +32,7 @@ class GetSrc:
         self.mirror_proxy = 'https://ghp.ci/https://raw.githubusercontent.com'
         self.num = int(num)
         self.sep = os.path.sep
-        self.username = username
+        self.username = 'Wind5170'
         self.token = token
         self.timeout=timeout
         self.url = url
